@@ -21,10 +21,10 @@ Before Serialization list hexdump:
       0x600002e38270      0x600002e38240      0x600002e382a0      0x600002e38240              3_Node
       0x600002e382a0      0x600002e38270      0x600002e382d0      0x600002e382d0              4_Node
       0x600002e382d0      0x600002e382a0                 0x0                 0x0              5_Node
-
 ```
-Afetr Deerialization list hexdump:
 
+Afetr Deerialization list hexdump:
+```
                 Node                prev                next                rand                data
       0x600002e3c030                 0x0      0x600002e30000      0x600002e30060              1_Node
       0x600002e30000      0x600002e3c030      0x600002e30030                 0x0              2_Node
