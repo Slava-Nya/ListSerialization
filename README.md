@@ -1,5 +1,5 @@
 # ListSerialization
-Serialization and deserialization related list with random element in binary format
+Serialization and deserialization related list with random element in the binary format
 #### https://en.wikipedia.org/wiki/Serialization
 
 The struct for list node has this signature:
